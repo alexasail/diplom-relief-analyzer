@@ -55,9 +55,16 @@ output/
 cache/
 .mplconfig/
 *.png
+benchmark_results.csv
 *.pdf
 *.jpg
 *.jpeg
+*.docx
+
+# Local diploma materials
+2304_Yefremov_AD/
+TZ/
+2304_EfremovAD.md
 
 # Logs
 *.log
